@@ -22,9 +22,15 @@ var firstName = 'Kenny';
 var lastName = 'Chung';
 nameArray.push(firstName, lastName);
 
-var toTen = [];
-i = 0;
+var genericNumberArray = [];
+i = 1;
 while(i <= 10){
-    toTen.push(i);
+    genericNumberArray.push(i);
     i++;
 }
+
+var popResult = colors.pop();
+
+scrambledWords.reverse();
+
+phoneNumber.reverse();
