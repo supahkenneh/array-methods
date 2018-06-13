@@ -16,3 +16,15 @@ var monthNames = ['Jan', 'Feb', 'Mar', 'Apr'];
 var bulkNumbers = [5, 5, 6, 6, 9, 9, 2, 2, 2, 5, 2];
 
 // do your work below!
+
+var nameArray = [];
+var firstName = 'Kenny';
+var lastName = 'Chung';
+nameArray.push(firstName, lastName);
+
+var toTen = [];
+i = 0;
+while(i <= 10){
+    toTen.push(i);
+    i++;
+}
