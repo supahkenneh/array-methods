@@ -58,3 +58,7 @@ var one = [{takeOut: 'mcDonalds'}];
 var two = [{takeOut: 'curry'}];
 
 var updatedOrders = orderQueue.concat(one, two);
+
+var sentence = scrambledWords.join(' ');
+
+var myFruits = fruitCollection.join(' + ');
