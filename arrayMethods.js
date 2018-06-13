@@ -43,3 +43,5 @@ mixedWords.sort();
 var notFruit = fruitCollection.splice(1, 3);
 
 gemBox.splice(5, 11, 'Sapphire');
+
+upToTen.splice(2, 0, 3, 4, 5, 6, 7, 8)
